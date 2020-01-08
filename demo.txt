@@ -2,3 +2,4 @@
 -->MAVEN
 -->JENKINS
 -->DOCKER
+kube
